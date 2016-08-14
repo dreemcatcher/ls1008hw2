@@ -10,22 +10,26 @@ mb_internal_encoding('utf-8');
 </head>
 <body>
 <?php 
-/**
-Задание #6
-Выведите информацию о текущей дате в формате 31.12.2016 23:59
-Выведите unixtime время соответствующее 24.02.2016 00:00:00.
-
- */
-
-$d = getdate(); // использовано текущее время
-foreach ( $d as $key => $val )
-{
-    $key = $val;
+/*
+Задание #8
+Создайте средствами ОС файл test.txt и поместите в него текст “Hello, world”
+Напишите функцию, которая будет принимать имя файла, открывать файл и выводить содержимое на экран.
+*/
+function OpenSomeFile($a){
+    $fp = fopen($a, "r");
+    if ($fp)
+    {
+        while (!feof($fp))
+        {
+            $mytext = fgets($fp, 999);
+            return $mytext;
+        }
+    }
+    else echo "Ошибка при открытии файла";
+    fclose($fp);
 }
-echo "<br>Выведите информацию о текущей дате в формате 31.12.2016 23:59<br>";
-echo "<br>$d[mday].$d[mon].$d[year]"." "."$d[hours]".":"."$d[minutes]<br>";
-echo "<br>Выведите unixtime время соответствующее 24.02.2016 00:00:00.<br>";
-echo "<br>$d[mday].$d[mon].$d[year]"." "."$d[hours]".":"."$d[minutes]".":"."$d[seconds]<br>";
+echo OpenSomeFile('test.txt');
+echo "<br>";
 ?>
 </body>
 </html>

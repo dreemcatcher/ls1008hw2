@@ -17,7 +17,7 @@ error_reporting(-1);
     <tr>
         <td>
             <?php
-            for($i=1;$i<9; $i++){
+            for($i=1;$i<10; $i++){
               echo "<a href='z".$i.".php'>Задание ".$i."</a><br> ";
             }
             echo "<a href='z7_2.php'>Задание 7.2 Потому-что там 2 задания под номером 7</a><br>";

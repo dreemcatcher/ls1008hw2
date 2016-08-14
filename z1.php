@@ -78,7 +78,6 @@ $strings ="Положив книжку на колени, Лисбет отпи�
 $arrayStrings=explode(".", $strings);
 function myFunc($arr, $second=FALSE){
 // Сравниваем с FALSE
-
     if ($second==FALSE) {
         for ($i = 0; $i < count($arr); $i++) {
             echo "<p>" . $arr[$i] . "</p>";
