@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e42b999-22d9-40bc-ab07-1861b7ab5052" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z7.php" afterPath="$PROJECT_DIR$/z7.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z7_2.php" afterPath="$PROJECT_DIR$/z7_2.php" />
     </list>
     <ignored path="ls108hw2.iws" />
@@ -118,8 +117,8 @@
       <file leaf-file-name="z7_2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/z7_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+            <state relative-caret-position="263">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -167,8 +166,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="611" />
-    <option name="y" value="620" />
+    <option name="x" value="393" />
+    <option name="y" value="271" />
     <option name="width" value="1409" />
     <option name="height" value="773" />
   </component>
@@ -271,15 +270,15 @@
       <option name="presentableId" value="Default" />
       <updated>1471109963555</updated>
       <workItem from="1471109965054" duration="8057000" />
-      <workItem from="1471153247829" duration="6397000" />
+      <workItem from="1471153247829" duration="8289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14454000" />
+    <option name="totallyTimeSpent" value="16346000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="611" y="620" width="1409" height="773" extended-state="0" />
+    <frame x="393" y="271" width="1409" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2564863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -517,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/z7_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        <state relative-caret-position="263">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding />
         </state>
       </provider>
