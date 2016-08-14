@@ -16,6 +16,15 @@ mb_internal_encoding('utf-8');
  * Дана строка “Две бутылки лимонада”. Заменить “Две”, на “Три”. По желанию дополнить задание.
  */
 $sting="Карл у Клары украл Кораллы";
+function TestRegularFirst(){
+    $text='Карл у Клары украл кораллы, а Клара у Карла украла кларнет .';
+    echo '<strong>Пример:</strong> '.htmlspecialchars($text);
+    preg_match_all("/(К.*?)\s/",$text,$result);
+    echo '<br/><strong>Результат:</strong> <pre>'.var_export($result[1],true).'</pre>';
+}
+echo TestRegularFirst();
+
+
 ?>
 </body>
 </html>
