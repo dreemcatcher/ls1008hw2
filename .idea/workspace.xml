@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e42b999-22d9-40bc-ab07-1861b7ab5052" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z6.php" afterPath="$PROJECT_DIR$/z6.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z7.php" afterPath="$PROJECT_DIR$/z7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/z7_2.php" afterPath="$PROJECT_DIR$/z7_2.php" />
     </list>
     <ignored path="ls108hw2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +48,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="z6.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="z5.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/z5.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="43" column="1" selection-start-line="22" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+              <folding>
+                <element signature="e#179#544#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="z6.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/z6.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+            <state relative-caret-position="178">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding>
                 <element signature="e#179#321#0#PHP" expanded="true" />
               </folding>
@@ -63,8 +75,8 @@
       <file leaf-file-name="z7.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/z7.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -103,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="z7_2.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="z7_2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/z7_2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+            <state relative-caret-position="357">
+              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -118,16 +130,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="58" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="z1.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/z1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="79" column="21" selection-start-line="79" selection-start-column="21" selection-end-line="79" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -144,7 +146,6 @@
         <option value="$PROJECT_DIR$/z2.php" />
         <option value="$PROJECT_DIR$/z4.php" />
         <option value="$PROJECT_DIR$/z5.php" />
-        <option value="$PROJECT_DIR$/z7_2.php" />
         <option value="$PROJECT_DIR$/z1.php" />
         <option value="$PROJECT_DIR$/z8.php" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -152,6 +153,7 @@
         <option value="$PROJECT_DIR$/z3.php" />
         <option value="$PROJECT_DIR$/z6.php" />
         <option value="$PROJECT_DIR$/z7.php" />
+        <option value="$PROJECT_DIR$/z7_2.php" />
       </list>
     </option>
   </component>
@@ -165,8 +167,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="479" />
-    <option name="y" value="541" />
+    <option name="x" value="611" />
+    <option name="y" value="620" />
     <option name="width" value="1409" />
     <option name="height" value="773" />
   </component>
@@ -269,15 +271,15 @@
       <option name="presentableId" value="Default" />
       <updated>1471109963555</updated>
       <workItem from="1471109965054" duration="8057000" />
-      <workItem from="1471153247829" duration="5325000" />
+      <workItem from="1471153247829" duration="6397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13382000" />
+    <option name="totallyTimeSpent" value="14454000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="479" y="541" width="1409" height="773" extended-state="0" />
+    <frame x="611" y="620" width="1409" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2564863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -312,7 +314,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -423,16 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/z5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="e#179#544#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/z1.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -495,29 +487,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/z7_2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/z7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/z6.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        <state relative-caret-position="178">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding>
             <element signature="e#179#321#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="43" column="1" selection-start-line="22" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding>
+            <element signature="e#179#544#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z7_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
