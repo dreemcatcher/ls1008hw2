@@ -8,7 +8,7 @@ error_reporting(-1);
     <title>Домашка 2</title>
 </head>
 <body>
-
+ 
 <?php
 /**
 Задание #4

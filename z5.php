@@ -9,7 +9,7 @@ mb_internal_encoding('utf-8');
     <title>Домашка 2</title>
 </head>
 <body>
-<?php
+<?php 
 /**
 Задание #5
 
